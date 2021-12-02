@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Instrumentation at NIT Trichy.
 - 💼 &nbsp; Upcoming full-time Software Engineer at Microsoft!
 - 😇 &nbsp; Algorithmist & Problem solver!
