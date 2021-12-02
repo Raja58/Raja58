@@ -1,5 +1,3 @@
-<img src="https://github.com/Raja58/ProShop-eCommerce/blob/main/Programing.jpg">
-
 <h2> Hey there! 👋 I'm Raja Durai.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
