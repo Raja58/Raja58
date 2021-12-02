@@ -6,7 +6,7 @@
   <img height="180em" align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja58&theme=dark&layout=compact" />
 </a>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies & developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Instrumentation at NIT Trichy.
 - 💼 &nbsp; Upcoming full-time Software Engineer at Microsoft!
 - 😇 &nbsp; Algorithmist & Problem solver!
