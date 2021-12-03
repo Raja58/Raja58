@@ -13,4 +13,4 @@
 <br/>
 
 📫 Reach me:
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raja58)  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Raja58)
+ [![Linkedin](https://github.com/Raja58/ProShop-eCommerce/blob/main/in.jpg) LinkedIn](https://www.linkedin.com/in/raja58)  [![Email](https://github.com/Raja58/ProShop-eCommerce/blob/main/mail.jpg) Email](mailto:rajadurainit@gmail.com)
