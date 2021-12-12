@@ -1,7 +1,7 @@
 <h2> Hey there! 👋 I'm Raja Durai.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Raja58">
   <img height="180em" align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja58&theme=dark&layout=compact" />
 </a>
 
