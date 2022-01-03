@@ -8,9 +8,9 @@
 </h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<!-- <a href="https://github.com/Raja58">
-  <img height="180em" align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja58&theme=dark&layout=compact" />
-</a> -->
+<img height="230em" align = "right" src="https://github.com/Raja58/Task-3-JPMorgan-Chase-Co-Software-Engineering-Virtual-Experience/blob/main/Microsoft%20done.gif" />
+<!-- ![Raja's github stats](https://github-readme-stats.vercel.app/api?username=Raja58&show_icons=true&theme=dark) -->
+<br/>
 
 - 😊 &nbsp; Exploring new technologies & developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Instrumentation at NIT Trichy.
