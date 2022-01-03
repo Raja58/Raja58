@@ -7,7 +7,7 @@
 </p>
 </h2>
 
-<img height="230em" align = "right" src="https://github.com/Raja58/Task-3-JPMorgan-Chase-Co-Software-Engineering-Virtual-Experience/blob/main/Microsoft%20done.gif" />
+<img height="225em" align = "right" src="https://github.com/Raja58/Task-3-JPMorgan-Chase-Co-Software-Engineering-Virtual-Experience/blob/main/Microsoft%20done.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😊 &nbsp; Exploring new technologies & developing software solutions.
