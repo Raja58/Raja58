@@ -1,7 +1,7 @@
 <h2 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I'm Raja Durai.<br>Welcome to my profile!
+  I'm Raja Durai. Welcome to my profile!
 </h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
