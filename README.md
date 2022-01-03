@@ -1,11 +1,11 @@
-<h3 align="center">
+<h2 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I'm Raja Durai. Welcome to my profile!
   <p align="center">
   <a href="https://github.com/Raja58"><img src="https://readme-typing-svg.herokuapp.com/?lines=from%20github%20import%20Raja58%20;I'm%20always%20trying%20to%20get%20better%20:);&font=monospace%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-</h3>
+</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <!-- <a href="https://github.com/Raja58">
