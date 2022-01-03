@@ -9,7 +9,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <img height="230em" align = "right" src="https://github.com/Raja58/Task-3-JPMorgan-Chase-Co-Software-Engineering-Virtual-Experience/blob/main/Microsoft%20done.gif" />
-<!-- ![Raja's github stats](https://github-readme-stats.vercel.app/api?username=Raja58&show_icons=true&theme=dark) -->
+![Raja's github stats](https://github-readme-stats.vercel.app/api?username=Raja58&show_icons=true&theme=dark)
 <!-- <br/> -->
 
 - 😊 &nbsp; Exploring new technologies & developing software solutions.
