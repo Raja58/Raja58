@@ -6,10 +6,9 @@
   <a href="https://github.com/Raja58"><img src="https://readme-typing-svg.herokuapp.com/?lines=from%20github%20import%20Raja58%20;I'm%20always%20trying%20to%20get%20better%20:);&font=monospace%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 </h2>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <img height="230em" align = "right" src="https://github.com/Raja58/Task-3-JPMorgan-Chase-Co-Software-Engineering-Virtual-Experience/blob/main/Microsoft%20done.gif" />
-<!-- <br/> -->
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😊 &nbsp; Exploring new technologies & developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Instrumentation at NIT Trichy.
