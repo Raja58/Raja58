@@ -11,8 +11,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😊 &nbsp; Exploring new technologies & developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Instrumentation at NIT Trichy.
-- 💼 &nbsp; Upcoming full-time Software Engineer at Microsoft!
+- 🎓 &nbsp; Completed Computer Science Engineering at NIT Trichy.
+- 💼 &nbsp; Software Engineer at Microsoft!
 - 😇 &nbsp; Algorithmist & Problem Solver!
 <!-- ![Raja's github stats](https://github-readme-stats.vercel.app/api?username=Raja58&show_icons=true&theme=dark) -->
 <br/>
